@@ -1,6 +1,6 @@
 # **K Mean Clustering for k clusters**
 
-![K Means Clustering](https://user-images.githubusercontent.com/94090874/214595050-88eec3b8-87ac-4aa7-b340-98220381360c.png)
+![K Means Clustering](https://user-images.githubusercontent.com/94090874/214600283-5ca80aae-e2d3-4214-821b-2bde8cf3f605.png)
 
 *Demonstrates [K Means clustering](https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning) for k clusters in [Processing](www.processing.org)*
 
