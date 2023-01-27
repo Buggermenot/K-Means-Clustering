@@ -5,7 +5,7 @@
 *Demonstrates [K Means clustering](https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning) for k clusters in [Processing](www.processing.org)*
 
 ## How to run the file:
-- After downloading all the files, in [KMeansUltimate](https://github.com/Buggermenot/K-Means-Clustering/tree/main/KMeansUltimate), compile and run the [Driver.pde](https://github.com/Buggermenot/K-Means-Clustering/blob/main/KMeansUltimate/Driver.pde) file using [Processing](www.processing.org/download).
+- Download the [latest release](https://github.com/Buggermenot/K-Means-Clustering/releases/tag/v0.1). Ensure you have [OpenJDK 17](https://adoptium.net). Double click and the run the application "KMeanUltimate".
 - Click the mouse to update the positions of the centroids.
 - Press the DOWN Arrow Key to reset the clusters,
 - Press the UP Arrow Kye to reset the positions of the centroids.
